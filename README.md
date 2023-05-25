@@ -49,7 +49,10 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Prado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 <div id="footer" align="center">
+  <h1>Bye bye! Have a Nice Day</h1>
   <img src="https://media.tenor.com/a6pDrWf6gJgAAAAd/pixel-city-art.gif" width="350" class="rounded-lg"/>
 </div>
 
