@@ -56,12 +56,11 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
     <img src="https://readme-typing-svg.demolab.com/?lines=Bye bye!!&center=true&repeat=false&size=30&color=FA8072&duration=1000">
   </p>
   <img src="https://media.tenor.com/a6pDrWf6gJgAAAAd/pixel-city-art.gif" width="350" class="rounded-lg"/>
+  <br>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Have a nice day!!&center=true&repeat=false&color=FA8072&duration=1000">
   </p>
 </div>
-
-<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nicolas-almeida-prado/">
