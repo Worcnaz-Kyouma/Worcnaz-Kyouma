@@ -52,7 +52,12 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 ---
 
 <div id="footer" align="center">
-  <h1>Bye bye! Have a Nice Day</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bye bye!!&center=true&repeat=false&size=30&color=FA8072&duration=1000">
+  </p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Have a nice day!!&center=true&repeat=false&color=FA8072&duration=1000">
+  </p>
   <img src="https://media.tenor.com/a6pDrWf6gJgAAAAd/pixel-city-art.gif" width="350" class="rounded-lg"/>
 </div>
 
