@@ -8,6 +8,9 @@
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Nicolas+Prado,+a+Junior+Developer;&center=true&repeat=false&size=18&color=FA8072&duration=2000" alt="Example Usage - README Typing SVG">
   </p>
+  <a href="https://www.linkedin.com/in/nicolas-almeida-prado/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ---
@@ -48,23 +51,3 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Prado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<div id="footer" align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bye bye!!&center=true&repeat=false&size=30&color=FA8072&duration=1000">
-  </p>
-  <img src="https://media.tenor.com/a6pDrWf6gJgAAAAd/pixel-city-art.gif" width="350" class="rounded-lg"/>
-  <br>
-  <br>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Have a nice day!!&center=true&repeat=false&color=FA8072&duration=1000">
-  </p>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nicolas-almeida-prado/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
