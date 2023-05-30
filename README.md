@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
-- :telescope: I'm working as a Software Developer and contributing to front-end and back-end, but I have more focus and knowledge on back-end
+- :telescope: I'm working as a Software Developer and studying Software Engineering at UEPG
 
 - :seedling: Improving my skills day by day.
 
