@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a beginner Full Stack Developer from Brazil.
 - :telescope: I'm working as a Software Developer and studying Software Engineering at UEPG
 
 - :seedling: Improving my skills day by day.
