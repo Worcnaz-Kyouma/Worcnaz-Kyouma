@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/nicolas-almeida-prado/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nicolas%20Prado.Nicolas-Prado)
 </div>
 
 ---
