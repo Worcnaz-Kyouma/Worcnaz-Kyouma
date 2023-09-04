@@ -8,9 +8,15 @@
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Nicolas+Prado,+a+Junior+Developer;&center=true&repeat=false&size=18&color=FA8072&duration=2000" alt="Example Usage - README Typing SVG">
   </p>
-  <a href="https://www.linkedin.com/in/nicolas-almeida-prado/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nicolas-almeida-prado/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nicolas%20Prado.Nicolas-Prado)
+
+  </p>
+
 </div>
 
 ---
