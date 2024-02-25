@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
 I am a beginner Full Stack Developer from Brazil.
-- :telescope: I'm working as a Software Developer and studying Software Engineering at UEPG
+- :telescope: I'm working as a Web Developer and studying Software Engineering at UEPG.
 
-- :seedling: Improving my skills day by day.
+- :seedling: Currently studying more about low-level software, with operating systems, servers from scratch and much more!
 
 - :zap: In my free time, I like to study other concepts like physics or even hardware.
 
