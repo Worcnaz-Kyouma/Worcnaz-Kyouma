@@ -6,7 +6,7 @@
   </br>
   </br>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Nicolas+Prado,+a+Software+Developer;&center=true&repeat=false&size=18&color=FA8072&duration=2000" alt="Example Usage - README Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Nicolas+Prado,+a+Software+Developer;&center=true&repeat=false&size=16&color=FA8072&duration=1250" alt="Example Usage - README Typing SVG">
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/nicolas-almeida-prado/">
