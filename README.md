@@ -40,6 +40,7 @@ I am a beginner Full Stack Developer from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -60,8 +61,12 @@ I am a beginner Full Stack Developer from Brazil.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Worcnaz-Kyouma&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worcnaz-Kyouma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### ☀️: My Stats :
+<p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Worcnaz-Kyouma&theme=one-dark-pro&hide_border=true&short_numbers=true"/>
+    </a>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worcnaz-Kyouma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
