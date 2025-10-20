@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a beginner Full Stack Developer from Brazil.
+I am a Full Stack Developer from Brazil.
 - :telescope: I'm working as a Web Developer and studying Software Engineering at UEPG.
 
 - :seedling: Currently studying more about low-level software, with operating systems, servers from scratch and much more!
@@ -54,7 +54,6 @@ I am a beginner Full Stack Developer from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" title="Swagger" **alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
 </div>
